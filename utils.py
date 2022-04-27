@@ -5,12 +5,6 @@ Created on Tue Aug  3 17:01:53 2021
 @author: guwen
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 21 15:54:46 2021
-
-@author: Administrator
-"""
 
 import numpy as np
 import scipy as sp
