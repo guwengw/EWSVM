@@ -5,18 +5,10 @@ Created on Fri Aug  6 10:03:06 2021
 @author: guwen
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 21 20:30:18 2021
 
-@author: Administrator
-"""
-
-import os
 import numpy as np
 from sklearn.svm import SVC
 import utils 
-import h5py
 
 from sklearn.metrics import f1_score
 
